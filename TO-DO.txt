@@ -3,6 +3,7 @@
     b)- pick 2 major tracks and learn about them []
     c)- learn about the tires of f1 []
     d)- Learn about pit stratergies of famous teams according to laps []
-    e)- decide what all data will be needed and collect it 
+    e)- Learn about total pit stops, stint length and safety car period []
+    f)- decide what all data will be needed and collect it []
 #2- Building 
     
