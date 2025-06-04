@@ -1,9 +1,18 @@
+##I usually use task warrior for a todo list but create one todo txt for certain projects is much more helpful and makes revisitg easy
+
 #1- RESEARCH 
     a)- list your objective [x]
-    b)- pick 2 major tracks and learn about them []
+    b)- pick 2 major tracks and learn about them [x]
     c)- learn about the tires of f1 []
     d)- Learn about pit stratergies of famous teams according to laps []
     e)- Learn about total pit stops, stint length and safety car period []
     f)- decide what all data will be needed and collect it []
 #2- Building 
-    
+    a)- choose a path between  []
+        A. Descriptive Analyzer
+            Given a race, tell the best strategy used
+            Compare 1-stop vs 2-stop outcomes
+        B. Predictive Model (ML)
+            Input: Track, weather, qualifying position, compound
+            Output: Ideal number of stops or pit lap prediction
+            Models: Decision Trees or Random Forests work well
