@@ -15,4 +15,4 @@
         B. Predictive Model (ML)
             Input: Track, weather, qualifying position, compound
             Output: Ideal number of stops or pit lap prediction
-            Models: Decision Trees or Random Forests work well
+            Models: Decision Trees or Random Forests work well 
