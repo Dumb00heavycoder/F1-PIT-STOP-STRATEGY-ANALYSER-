@@ -1,7 +1,7 @@
 I started working on this on 4th june 2025 
 My motivation is to explore the motorsport and use my skills to develop an efficent tool 
 
-On 4th june I took some time to understand my goal and create the repository.
+On 4th june I took some time to understand my goal and created the repository.
 I created a to-do list to make my workflow more efficent and started researching.
 For research i used the official f1 documentation (available on FIA website) and to clear my doubts i used available
 To get deeper understanding i watched some videos of WTF1 
