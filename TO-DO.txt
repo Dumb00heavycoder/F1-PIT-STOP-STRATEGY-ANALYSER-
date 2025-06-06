@@ -1,14 +1,16 @@
 ##I usually use task warrior for a todo list but create one todo txt for certain projects is much more helpful and makes revisitg easy
 
-#1- RESEARCH 
+#1- RESEARCH [x]
     a)- list your objective [x]
     b)- pick 2 major tracks and learn about them [x]
     c)- learn about the tyres of f1 [x]
     d)- Learn about pit stratergies of famous teams according to laps [x]
     e)- Learn about total pit stops, stint length and safety car period [x]
-    f)- decide what all data will be needed and collect it []
+
 #2- Building 
-    a)- choose a path between  []
+    a)- build a mini version of what you are chasing []
+    
+    b)- choose a path between  []
         A. Descriptive Analyzer
             Given a race, tell the best strategy used
             Compare 1-stop vs 2-stop outcomes
