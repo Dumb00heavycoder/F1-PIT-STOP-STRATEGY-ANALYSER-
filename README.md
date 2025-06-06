@@ -1,6 +1,6 @@
 # F1-PIT-STOP-STRATEGY-ANALYSER-
 
-![F1 PITSTOP](my images/ferrari pit2.jpeg)
+![F1 PITSTOP](my_images/ferrari_pit2.jpeg)
 
 My objective is to create a program that will predict and analyse the optimal number and timing of pit stops in an F1 race, based on the race data, tire usage, track type and conditions 
 
