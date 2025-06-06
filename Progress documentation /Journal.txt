@@ -1,5 +1,5 @@
 I started working on this on 4th june 2025 
-My motivation is to explore the motorsport and use my skills to develop a efficent tool 
+My motivation is to explore the motorsport and use my skills to develop an efficent tool 
 
 On 4th june I took some time to understand my goal and create the repository.
 I created a to-do list to make my workflow more efficent and started researching.
