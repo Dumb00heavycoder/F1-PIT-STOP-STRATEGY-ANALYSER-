@@ -3,7 +3,7 @@ My motivation is to explore the motorsport and use my skills to develop an effic
 
 On 4th june I took some time to understand my goal and created the repository.
 I created a to-do list to make my workflow more efficent and started researching.
-For research i used the official f1 documentation (available on FIA website) and to clear my doubts i used available
+For research i used the official f1 documentation (available on FIA website) and to clear my doubts i used AI
 To get deeper understanding i watched some videos of WTF1 
 
 I completed my research on 6th june 2025
