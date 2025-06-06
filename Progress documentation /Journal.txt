@@ -1,0 +1,12 @@
+I started working on this on 4th june 2025 
+My motivation is to explore the motorsport and use my skills to develop a efficent tool 
+
+On 4th june I took some time to understand my goal and create the repository.
+I created a to-do list to make my workflow more efficent and started researching.
+For research i used the official f1 documentation (available on FIA website) and to clear my doubts i used available
+To get deeper understanding i watched some videos of WTF1 
+
+I completed my research on 6th june 2025
+For now our goal will be to develop a program which will analyse all the combinations of stints and find the most optimized one
+in this program i will be ignoring the relation between tyre wear and lap time to keep it easier in start
+this program will just be a mini version of what we are actually chasing. 
